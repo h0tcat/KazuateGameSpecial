@@ -1,0 +1,2 @@
+# KazuateGameSpecial
+数当てゲームがぎっしり詰まったリポジトリ
